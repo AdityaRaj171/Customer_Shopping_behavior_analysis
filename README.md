@@ -21,8 +21,7 @@ Retailers sit on huge amounts of transactional data but often struggle to turn i
 ---
 
 ## 📊 The Dashboard
-
-![Customer Behavior Dashboard](./dashboard.png)
+jjjjjj
 
 An interactive Power BI view combining KPIs, category performance, subscription mix, and age-group trends — filterable by subscription status, gender, category, and shipping type.
 
@@ -105,4 +104,3 @@ B.Tech Mechanical Engineering, SVNIT Surat — actively building a portfolio in 
 
 🔗 [GitHub — @AdityaRaj171](https://github.com/AdityaRaj171)
 
-*If you're a recruiter or hiring manager reviewing this project — thanks for stopping by! Feel free to reach out with any questions about my approach or thought process.*
