@@ -211,7 +211,6 @@ Top-rated and best-selling products can be prioritized for marketing campaigns.
 📌 Conclusion
 
 This project demonstrates an end-to-end analytics workflow by converting raw customer transaction data into meaningful business insights through Python, SQL, and Power BI.
-This README is structured more like a Data Analyst portfolio project README, so it will look appropriate on GitHub and for internship applications.
  
 👨‍💻 Author
 Aditya Raj
